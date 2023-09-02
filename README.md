@@ -9,5 +9,6 @@ Tecnologia da Informação.
 - [ ] Organizar *dataframes* com tais dados afim de ranquear canais mais influentes no setor
 - [ ] Mapear o perfis dessa rede (canais mais influentes, tipos de "institucionalidades: indivíduos?, ecolas?, universidades?, movimentos sociais?)
 - [ ] Identificar os clustes a partir dos perfis
-    - [ ] Provavelmente vai ser necessário analisar dados dos videos dos canais
-- 
+    - [ ] Provavelmente vai ser necessário analisar metadados dos videos dos canais
+    - [ ] Fazer um prova de concento(POC) para validar possibilidade de transcrição de vídeos para análiso do conteúdo
+- [ ] Identificar nos cluster viésses para dar foco nos prováveis Influenciadores Progressistas

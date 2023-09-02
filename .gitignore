@@ -3,3 +3,4 @@ credentials.json
 audio_downloads
 videos_python
 .venv
+poc.py
